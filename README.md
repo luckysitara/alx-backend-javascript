@@ -1,2 +1,1 @@
-starting my short specialization today
-with es6
+Solutions to Backend specialization projects
